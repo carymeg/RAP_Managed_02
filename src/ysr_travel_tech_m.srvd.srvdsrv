@@ -1,0 +1,6 @@
+@EndUserText.label: 'for Service'
+define service Ysr_travel_tech_m {
+  expose YC_TRAVEL_TECH_M;
+  expose YC_BOOKSUPPL_TECH_M;
+  expose YC_BOOKING_TECH_M;
+}
